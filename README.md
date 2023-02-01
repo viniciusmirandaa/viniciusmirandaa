@@ -1,22 +1,16 @@
-### Hi there 👋
+### 👋
 
-<!--
-**viniciusmirandaa/viniciusmirandaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-🧑‍🏫 Analysis and Development student at FATEC Mogi das Cruzes.
 
-Here are some ideas to get you started:
+-📍 Mogi das Cruzes - SP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-🔭 I’m currently working on Odoo modules development.
+
+-#️⃣ Conhecimento em Python, Odoo, XML, CSS, JavaScript, PostgreSQL, Java, SpringBoot.
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=viniciusmirandaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=viniciusmirandaa&layout=compact&langs_count=7&theme=dark"/>
   <img height="160em" src="https://streak-stats.demolab.com?user=viniciusmirandaa&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly"/>
 </div>
+
