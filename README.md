@@ -4,7 +4,7 @@
 
 -📍 Mogi das Cruzes - SP
 
--#️⃣ Knowledge in Python, Odoo, XML, CSS, JavaScript, PostgreSQL, Java, SpringBoot.
+-#️⃣ Knowledge in Python, Odoo, XML, PostgreSQL, Java, SpringBoot.
 
 -🔭 I’m currently working on Odoo modules development.
 
