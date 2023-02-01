@@ -1,12 +1,12 @@
 ### 👋
 
--🧑‍🏫 Analysis and Development student at FATEC Mogi das Cruzes.
+-🧑‍🏫 Analysis and Systems Development student at FATEC Mogi das Cruzes.
 
 -📍 Mogi das Cruzes - SP
 
--🔭 I’m currently working on Odoo modules development.
+-#️⃣ Knowledge in Python, Odoo, XML, CSS, JavaScript, PostgreSQL, Java, SpringBoot.
 
--#️⃣ Conhecimento em Python, Odoo, XML, CSS, JavaScript, PostgreSQL, Java, SpringBoot.
+-🔭 I’m currently working on Odoo modules development.
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=viniciusmirandaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
