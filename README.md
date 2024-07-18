@@ -1,4 +1,4 @@
-- 🧑‍🏫 Analysis and Systems Development student at FATEC Mogi das Cruzes.
+- 🧑‍🏫 Systems Analysis and Development Technician at FATEC Mogi das Cruzes
 
 - 📍 Mogi das Cruzes - SP
 
