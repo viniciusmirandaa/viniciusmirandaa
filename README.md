@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm Vinicius
 
-- 🧑‍🏫 Systems Analysis and Development Technician at FATEC Mogi das Cruzes
+- 🧑‍🏫 ADS at FATEC Mogi das Cruzes
 - 📍 Mogi das Cruzes - SP
 - #️⃣ Knowledge in Python, Odoo, XML, PostgreSQL, Java, SpringBoot.
 - 🔭 I’m currently working on Odoo modules development.
